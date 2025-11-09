@@ -2,7 +2,7 @@
 
 ### Задание 1
 
-![Название скриншота 1](ссылка на скриншот 1)`
+![Задание 1](https://raw.githubusercontent.com/darthedgehog/hw-03-smon/refs/heads/main/img/img01.png)`
 
 ---
 
